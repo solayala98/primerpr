@@ -1,4 +1,2 @@
 print("Buenas! :D")
-
-
-print("hola 2")
+print("vemos si funca")
